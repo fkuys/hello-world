@@ -1,4 +1,3 @@
 # hello-world
-testing new code
-
-Would like to learn to develop software /apps
+I'm Frans and I am new at GitHub.
+I am learning how to use GitHub and this is my first attempt at committing changes.
